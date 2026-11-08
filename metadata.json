@@ -1,0 +1,6 @@
+{
+  "name": "Her Universe — A Little World Made Just for You",
+  "description": "A romantic, interactive digital storybook and birthday celebration universe built for November 9, 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
